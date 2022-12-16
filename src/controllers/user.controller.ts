@@ -1,3 +1,4 @@
+import { databaseProviders } from './../database/database.provider';
 import { UserService } from './../providers/user.service';
 import { Controller, Get } from '@nestjs/common';
 
